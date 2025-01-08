@@ -55,5 +55,5 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulta el archivo LICENSE pa
 ## Contacto
 Si tienes preguntas o sugerencias sobre este proyecto, no dudes en contactarme:
 
-Email: tu-email@example.com
-LinkedIn: Tu Perfilom/MoliAAAJ/Encriptador.git
+- **Email:** tu-email@example.com
+- **LinkedIn:** Tu Perfilom/MoliAAAJ/Encriptador.git
